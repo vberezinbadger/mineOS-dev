@@ -1,0 +1,34 @@
+PACKAGE:  Open Kernel 2 Manulal
+
+DESCRIPTION
+  The package API is one of the few Open Kernel APIs exposed in the global environment (_G). It contains a subset of standards-
+  compliant functions and variables, matching those of the Lua standard library.
+
+FUNCTIONS
+  The following functions are available in the package API.
+
+  package.searchpath(module: string[, path: string[, separator: string[, repeat: number]]]): string or false, string error
+    Search the package path for the specified module. Returns the full filepath on success, or false and an error message on
+    failure.
+
+  package also provides require() and dofile().
+
+  dofile(filepath: string): ...
+    Loads and executes a file from the provided path. Returns the file's return values on success, or false and an error message on
+    failure.
+
+  require(module: string):  ... or boolean, string or nil
+    Wrapper around dofile, loading from the package searchpath. Returns the module's return values on success, or false and an error
+    message on failure.
+
+VARIABLES
+  The following variables and tables are in the package API.
+
+  package.loaded: table
+    A cache of all previously loaded APIs. Reset on computer shutdown.
+
+    The table's keys are module names, and its values their return values.
+
+  package.path: string
+    The path which package.searchpath() and require() use to search for modules. Paths are formatted as "/usr/lib/?.lua", where all
+    instances of the '?' character will be replaced with the module name.

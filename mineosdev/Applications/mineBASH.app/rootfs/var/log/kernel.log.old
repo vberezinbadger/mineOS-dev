@@ -1,0 +1,34 @@
+[104.400] Kernel startup: phase 1
+[104.400] Initialized loadfile
+[104.400] Initialized term.*, write(), and print()
+[104.400] Loading filesystem API from /lib/filesystem.lua
+[104.450] Reinitializing loadfile
+[104.450] Kernel startup: stage 2
+[104.450] Setting up kernel hooks
+[104.450] Loading init from /sbin/init.lua
+[104.550] Starting mineSHELL services
+[104.650] Loading /etc/init.d/00_base.lua
+[104.750] Loading /etc/init.d/10_event.lua
+[104.800] Loading /etc/init.d/20_read.lua
+[104.850] Loading /etc/init.d/30_errors.lua
+[104.900] Loading /etc/init.d/40_tables.lua
+[105.150] Loading /etc/init.d/50_modules.lua
+[105.800] Loading /etc/init.d/60_networking.lua
+[105.950] Checking for an internet card
+[105.950] Found internet card and created proxy
+[105.950] Loading /etc/init.d/70_filesystem.lua
+[1060000] Getting root filesystem address
+[106.050] Initializing mount system
+[106.250] Mounting filesystem f55c495e-2b53-403c-844b-90f20a0c085a at /
+[106.350] Mounting external filesystems
+[106.350] Mounting filesystem ef489a28-5418-4375-8142-f8948992415e at /tmp
+[106.450] Mounting filesystem 2d9e845d-040b-4a1d-8900-6e22f6739759 at /mnt/2d9
+[106.550] Mounting filesystem e94af5c8-ee4f-408e-b0a9-3655d159d00a at /mnt/e94
+[106.650] Loading /etc/init.d/80_multithreading.lua
+[106.700] Starting mineRC
+[106.800] Checking for OpenRC configuration at /etc/openrc.cfg
+[106.850] Starting OpenRC service logd
+[106.900] Spawning process 2 with name logd
+[106.900] Starting shell
+[106.950] Spawning process 3 with name shell
+[107.650] Task logd died: cannot resume dead coroutine

@@ -1,0 +1,20 @@
+EVENT:  Open Kernel 2 Manual
+
+DESCRIPTION
+  The event API is a wrapper around computer.pullSignal, allowing event filtering and event listeners. It can be accessed during early
+  boot (before package has been loaded) in _G.event, and afterward with require("event").
+
+FUNCTIONS
+  The event API provides the following functions.
+  
+  event.pull([filter: string[, timeout: number]]): string, ...
+    Listen for events, optionally filtering and/or applying a timeout.
+  
+  event.push(event: string[, ...])
+    Push event event onto the signal queue. Wrapper around computer.pushSignal.
+  
+  event.listen(event: string, handler: function)
+    Set the event handler for the specified event.
+  
+  event.cancel(event: string)
+    Disable the event handler on the specified event.

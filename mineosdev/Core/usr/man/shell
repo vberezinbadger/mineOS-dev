@@ -1,0 +1,25 @@
+SHELL:  Open Kernel 2 Manual
+
+DESCRIPTION
+  The shell API is one of the few Open Kernel standard APIs exposed in the global environment (_G). It provides several utility
+  functions that can be used in shell commands, accessible under _G.shell.
+
+FUNCTIONS
+  The shell API provides the following utility functions.
+
+  shell.resolve(path: string): string
+    Resolve the provided path to an absolute location in your filesystem.
+
+  shell.getWorkingDirectory(): string
+    Get the current working directory. Alias for os.getenv("PWD").
+
+  shell.setWorkingDirectory(newDirectory: string)
+    Set the current working directory. This is a checked version of os.setenv("PWD", newDirectory).
+
+  shell.parse(...): arguments: table, options: table
+    Parse the provided arguments into arguments and options. shell.parse supports both short (i.e. -dog) and long (i.e. --dog) options.
+    Long options may have values assigned to them with the syntax --option=thisWillShowUpAsAString.
+    The options table's keys are option names (with the - or -- truncated) and its values either true or the specified custom value.
+
+  shell.execute(command, ...)
+    Execute command `command` from the shell's path, optionally with arguments.

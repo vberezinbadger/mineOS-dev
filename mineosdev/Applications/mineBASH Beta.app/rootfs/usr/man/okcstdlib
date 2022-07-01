@@ -1,0 +1,7 @@
+OKLIBC:  Open Kernel 2 Manual
+
+DESCRIPTION
+  oklibc is the subset of C standard library functions included with Open Kernel, and used in occ.
+
+  Due to the fact that an entire standard libc implementation takes roughly 6MB of disk space, and a single OpenComputers hard disk
+  being, at a minimum, 1MB, only a small subset of the standard C headers have been included or tested.

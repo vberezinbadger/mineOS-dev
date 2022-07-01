@@ -1,0 +1,15 @@
+VCOMPONENT:  Open Kernel 2 Manual
+
+DESCRIPTION
+  vcomponent is a kernel-level API, allowing for easy connectivity of virtual components.
+
+FUNCTIONS
+  vcomponent does not have a dedicated API, but rather wraps the existing component API, adding two new functions.
+  
+  component.create(component: table)
+    Add a new virtual component. When component.proxy is called, this table will be returned. The component type and address are
+    specified in this table, just as they would be in a standard component proxy.
+    Queues a component_added event when called.
+  
+  component.remove(address: string)
+    Remove the virtual component with the specified address. Queues a component_removed event. 

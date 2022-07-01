@@ -1,0 +1,27 @@
+-- OpenRC configuration --
+{
+  startup = { -- APIs to load at startup
+    {
+      id = "package",
+      file = "/lib/modules/package.lua"
+    },
+    { -- This is primarily for OpenOS compatibility but is useful for keyboard shortcuts too
+      id = "keyboard",
+      file = "/lib/modules/keyboard.lua"
+    },
+    {
+      id = "input",
+      file = "/lib/modules/input.lua"
+    },
+    {
+      id = "io",
+      file = "/lib/modules/io.lua"
+    },
+    {
+      id = "users",
+      file = "/lib/modules/users.lua"
+    }
+  },
+  daemons = { -- Background services, loaded after multitasking is initialized
+  }
+}

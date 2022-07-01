@@ -1,0 +1,1 @@
+{["width"]=90,["shadow"]=true,["titleTransparency"]=0,["colorScheme"]={[2]={[1]="Foreground",[2]=15790320},[1]={[1]="Background",[2]=3947580},[3]={[1]="Title background",[2]=14803425},[4]={[1]="Title foreground",[2]=2960685}},["title"]=true,["height"]=31,["backgroundTransparency"]=0,["titleLabel"]="Терминал mineBASH"}

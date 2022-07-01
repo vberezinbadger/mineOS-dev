@@ -1,0 +1,950 @@
+mineosdev/Applications
+mineosdev/Applications/3D Print.app
+mineosdev/Applications/3D Print.app/Extensions
+mineosdev/Applications/3D Print.app/Extensions/.3dm
+mineosdev/Applications/3D Print.app/Extensions/.3dm/Context menu.lua
+mineosdev/Applications/3D Print.app/Extensions/.3dm/Icon.pic
+mineosdev/Applications/3D Print.app/Icon.pic
+mineosdev/Applications/3D Print.app/Localizations
+mineosdev/Applications/3D Print.app/Localizations/English.lang
+mineosdev/Applications/3D Print.app/Localizations/Russian.lang
+mineosdev/Applications/3D Print.app/Main.lua
+mineosdev/Applications/3D Print.app/Sample.3dm
+mineosdev/Applications/App Market.app
+mineosdev/Applications/App Market.app/Icon.pic
+mineosdev/Applications/App Market.app/Icons
+mineosdev/Applications/App Market.app/Icons/FileNotExists.pic
+mineosdev/Applications/App Market.app/Icons/Lua.pic
+mineosdev/Applications/App Market.app/Icons/Script.pic
+mineosdev/Applications/App Market.app/Localizations
+mineosdev/Applications/App Market.app/Localizations/English.lang
+mineosdev/Applications/App Market.app/Localizations/Russian.lang
+mineosdev/Applications/App Market.app/Main.lua
+mineosdev/Applications/Console.app
+mineosdev/Applications/Console.app/Icon.pic
+mineosdev/Applications/Console.app/Main.lua
+mineosdev/Applications/Finder.app
+mineosdev/Applications/Finder.app/Icon.pic
+mineosdev/Applications/Finder.app/Main.lua
+mineosdev/Applications/Lua.app
+mineosdev/Applications/Lua.app/Icon.pic
+mineosdev/Applications/Lua.app/Main.lua
+mineosdev/Applications/mineBASH Beta.app
+mineosdev/Applications/mineBASH Beta.app/Config.cfg
+mineosdev/Applications/mineBASH Beta.app/Config.lua
+mineosdev/Applications/mineBASH Beta.app/Icon.pic
+mineosdev/Applications/mineBASH Beta.app/Main.lua
+mineosdev/Applications/mineBASH Beta.app/Modules
+mineosdev/Applications/mineBASH Beta.app/Modules/Box.lua
+mineosdev/Applications/mineBASH Beta.app/Modules/Component.lua
+mineosdev/Applications/mineBASH Beta.app/Modules/Window.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/cat.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/cd.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/clear.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/cp.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/dmesg.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/echo.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/exit.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/free.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/freeze.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/kill.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/led.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/less.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/login.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/ls.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/lsblk.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/lshw.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/mkdir.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/mount.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/mv.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/ps.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/pwd.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/rm.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/sh.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/umount.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/uptime.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/usermgr.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/bin/wget.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/boot
+mineosdev/Applications/mineBASH Beta.app/rootfs/boot/kernel.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/boot/log
+mineosdev/Applications/mineBASH Beta.app/rootfs/dev
+mineosdev/Applications/mineBASH Beta.app/rootfs/etc
+mineosdev/Applications/mineBASH Beta.app/rootfs/etc/inittab
+mineosdev/Applications/mineBASH Beta.app/rootfs/etc/openpm
+mineosdev/Applications/mineBASH Beta.app/rootfs/etc/openpm/repos.cfg
+mineosdev/Applications/mineBASH Beta.app/rootfs/etc/passwd
+mineosdev/Applications/mineBASH Beta.app/rootfs/init.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/archive.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/bit32.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/buffer.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/config.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/modules
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/modules/components.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/modules/input.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/modules/io.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/modules/keyboard.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/modules/package.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/modules/users.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/openpkg.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/services
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/services/idled.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/sha256.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/lib/vfs.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/root
+mineosdev/Applications/mineBASH Beta.app/rootfs/root/openvm
+mineosdev/Applications/mineBASH Beta.app/rootfs/root/openvm/OMakefile
+mineosdev/Applications/mineBASH Beta.app/rootfs/root/openvm/openvm.acv
+mineosdev/Applications/mineBASH Beta.app/rootfs/root/openvm/pkg
+mineosdev/Applications/mineBASH Beta.app/rootfs/root/openvm/pkg/package.cfg
+mineosdev/Applications/mineBASH Beta.app/rootfs/root/openvm/src
+mineosdev/Applications/mineBASH Beta.app/rootfs/root/openvm/src/lib
+mineosdev/Applications/mineBASH Beta.app/rootfs/root/openvm/src/lib/sandbox.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/root/openvm/src/openvm.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/root/openvm/src/openvm.lua.1
+mineosdev/Applications/mineBASH Beta.app/rootfs/sbin
+mineosdev/Applications/mineBASH Beta.app/rootfs/sbin/init.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/sbin/reboot.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/sbin/shutdown.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/tmp
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/acv.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/eeprom.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/fsutil.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/label.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/lua.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/luac.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/makepkg.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/man.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/motd.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/occ.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/ocmake.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/openpm.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/bin/vi.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/include
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/include/stdio.h
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/lib
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/lib/compat
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/lib/compat/keyboard.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/lib/compat/term.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/lib/compat/text.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/lib/netutils.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/lib/openupt.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/lib/text.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/lib/textutils.lua
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/man
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/man/devfs
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/man/event
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/man/init
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/man/okcstdlib
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/man/os
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/man/package
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/man/shell
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/man/threading
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/man/vcomponent
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/share
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/share/iexplode
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/share/iexplode/index.ohml
+mineosdev/Applications/mineBASH Beta.app/rootfs/usr/share/openvm.cfg
+mineosdev/Applications/mineBASH.app
+mineosdev/Applications/mineBASH.app/Config.cfg
+mineosdev/Applications/mineBASH.app/Config.lua
+mineosdev/Applications/mineBASH.app/Icon.pic
+mineosdev/Applications/mineBASH.app/Main.lua
+mineosdev/Applications/mineBASH.app/Modules
+mineosdev/Applications/mineBASH.app/Modules/Box.lua
+mineosdev/Applications/mineBASH.app/Modules/Component.lua
+mineosdev/Applications/mineBASH.app/Modules/Window.lua
+mineosdev/Applications/mineBASH.app/rootfs
+mineosdev/Applications/mineBASH.app/rootfs/bin
+mineosdev/Applications/mineBASH.app/rootfs/bin/about.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/about.lua.bak
+mineosdev/Applications/mineBASH.app/rootfs/bin/cat.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/cd.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/clear.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/cp.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/echo.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/eeprom.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/exit.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/free.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/get.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/hostname.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/install.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/label.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/ls.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/mkdir.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/motd.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/motd.lua.bak
+mineosdev/Applications/mineBASH.app/rootfs/bin/mount.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/mv.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/pastebin.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/pwd.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/rm.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/sh.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/sh.lua.bak
+mineosdev/Applications/mineBASH.app/rootfs/bin/shutdown.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/shutdown.lua.bak
+mineosdev/Applications/mineBASH.app/rootfs/bin/umount.lua
+mineosdev/Applications/mineBASH.app/rootfs/bin/wget.lua
+mineosdev/Applications/mineBASH.app/rootfs/boot
+mineosdev/Applications/mineBASH.app/rootfs/boot/kernel.lua
+mineosdev/Applications/mineBASH.app/rootfs/boot/kernel.lua.bak
+mineosdev/Applications/mineBASH.app/rootfs/boot/libs
+mineosdev/Applications/mineBASH.app/rootfs/boot/libs/filesystem.lua
+mineosdev/Applications/mineBASH.app/rootfs/boot/libs/term.lua
+mineosdev/Applications/mineBASH.app/rootfs/etc
+mineosdev/Applications/mineBASH.app/rootfs/etc/hostname.lua
+mineosdev/Applications/mineBASH.app/rootfs/etc/hostname.lua.bak
+mineosdev/Applications/mineBASH.app/rootfs/etc/init.d
+mineosdev/Applications/mineBASH.app/rootfs/etc/init.d/00_base.lua
+mineosdev/Applications/mineBASH.app/rootfs/etc/init.d/10_event.lua
+mineosdev/Applications/mineBASH.app/rootfs/etc/init.d/20_read.lua
+mineosdev/Applications/mineBASH.app/rootfs/etc/init.d/30_errors.lua
+mineosdev/Applications/mineBASH.app/rootfs/etc/init.d/40_tables.lua
+mineosdev/Applications/mineBASH.app/rootfs/etc/init.d/50_modules.lua
+mineosdev/Applications/mineBASH.app/rootfs/etc/init.d/60_networking.lua
+mineosdev/Applications/mineBASH.app/rootfs/etc/init.d/70_filesystem.lua
+mineosdev/Applications/mineBASH.app/rootfs/etc/init.d/80_multithreading.lua
+mineosdev/Applications/mineBASH.app/rootfs/etc/openrc.cfg
+mineosdev/Applications/mineBASH.app/rootfs/files.list
+mineosdev/Applications/mineBASH.app/rootfs/init.lua
+mineosdev/Applications/mineBASH.app/rootfs/lib
+mineosdev/Applications/mineBASH.app/rootfs/lib/colors.lua
+mineosdev/Applications/mineBASH.app/rootfs/lib/motd
+mineosdev/Applications/mineBASH.app/rootfs/lib/motd/motdlist.lua
+mineosdev/Applications/mineBASH.app/rootfs/lib/require
+mineosdev/Applications/mineBASH.app/rootfs/lib/require/serialize.lua
+mineosdev/Applications/mineBASH.app/rootfs/lib/services
+mineosdev/Applications/mineBASH.app/rootfs/lib/services/logd.lua
+mineosdev/Applications/mineBASH.app/rootfs/lib/tokenize.lua
+mineosdev/Applications/mineBASH.app/rootfs/mnt
+mineosdev/Applications/mineBASH.app/rootfs/mnt/2d9
+mineosdev/Applications/mineBASH.app/rootfs/mnt/38d
+mineosdev/Applications/mineBASH.app/rootfs/mnt/8c3
+mineosdev/Applications/mineBASH.app/rootfs/mnt/a90
+mineosdev/Applications/mineBASH.app/rootfs/mnt/e94
+mineosdev/Applications/mineBASH.app/rootfs/sbin
+mineosdev/Applications/mineBASH.app/rootfs/sbin/init.lua
+mineosdev/Applications/mineBASH.app/rootfs/sbin/init.lua.bak
+mineosdev/Applications/mineBASH.app/rootfs/sbin/minerc.lua
+mineosdev/Applications/mineBASH.app/rootfs/tmp
+mineosdev/Applications/mineBASH.app/rootfs/usr
+mineosdev/Applications/mineBASH.app/rootfs/usr/bin
+mineosdev/Applications/mineBASH.app/rootfs/usr/bin/edit.lua
+mineosdev/Applications/mineBASH.app/rootfs/usr/bin/lua.lua
+mineosdev/Applications/mineBASH.app/rootfs/var
+mineosdev/Applications/mineBASH.app/rootfs/var/log
+mineosdev/Applications/mineBASH.app/rootfs/var/log/kernel.log
+mineosdev/Applications/mineBASH.app/rootfs/var/log/kernel.log.old
+mineosdev/Applications/MineCode IDE.app
+mineosdev/Applications/MineCode IDE.app/Extensions
+mineosdev/Applications/MineCode IDE.app/Extensions/.cfg
+mineosdev/Applications/MineCode IDE.app/Extensions/.cfg/Icon.pic
+mineosdev/Applications/MineCode IDE.app/Extensions/.lang
+mineosdev/Applications/MineCode IDE.app/Extensions/.lang/Icon.pic
+mineosdev/Applications/MineCode IDE.app/Extensions/.lua
+mineosdev/Applications/MineCode IDE.app/Extensions/.lua/Context menu.lua
+mineosdev/Applications/MineCode IDE.app/Extensions/.lua/Icon.pic
+mineosdev/Applications/MineCode IDE.app/Extensions/.txt
+mineosdev/Applications/MineCode IDE.app/Extensions/.txt/Icon.pic
+mineosdev/Applications/MineCode IDE.app/Icon.pic
+mineosdev/Applications/MineCode IDE.app/Localizations
+mineosdev/Applications/MineCode IDE.app/Localizations/English.lang
+mineosdev/Applications/MineCode IDE.app/Localizations/Russian.lang
+mineosdev/Applications/MineCode IDE.app/Main.lua
+mineosdev/Applications/OpenOS.app
+mineosdev/Applications/OpenOS.app/Icon.pic
+mineosdev/Applications/OpenOS.app/Main.lua
+mineosdev/Applications/OpenOS.app/Modules
+mineosdev/Applications/OpenOS.app/Modules/Box.lua
+mineosdev/Applications/OpenOS.app/Modules/Component.lua
+mineosdev/Applications/OpenOS.app/Modules/Window.lua
+mineosdev/Applications/OpenOS.app/rootfs
+mineosdev/Applications/OpenOS.app/rootfs/.prop
+mineosdev/Applications/OpenOS.app/rootfs/bin
+mineosdev/Applications/OpenOS.app/rootfs/bin/address.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/alias.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/cat.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/cd.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/clear.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/components.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/cp.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/date.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/df.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/dmesg.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/du.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/echo.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/edit.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/find.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/flash.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/free.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/grep.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/head.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/hostname.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/install.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/label.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/less.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/list.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/ln.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/ls.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/lshw.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/lua.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/man.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/mkdir.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/mktmp.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/mount.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/mv.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/pastebin.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/primary.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/ps.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/pwd.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/rc.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/reboot.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/redstone.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/resolution.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/rm.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/rmdir.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/set.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/sh.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/shutdown.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/sleep.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/source.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/time.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/touch.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/tree.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/umount.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/unalias.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/unset.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/uptime.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/useradd.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/userdel.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/wget.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/which.lua
+mineosdev/Applications/OpenOS.app/rootfs/bin/yes.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot
+mineosdev/Applications/OpenOS.app/rootfs/boot/00_base.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot/01_process.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot/02_os.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot/03_io.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot/04_component.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot/10_devfs.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot/89_rc.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot/90_filesystem.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot/91_gpu.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot/92_keyboard.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot/93_term.lua
+mineosdev/Applications/OpenOS.app/rootfs/boot/94_shell.lua
+mineosdev/Applications/OpenOS.app/rootfs/etc
+mineosdev/Applications/OpenOS.app/rootfs/etc/motd
+mineosdev/Applications/OpenOS.app/rootfs/etc/profile.lua
+mineosdev/Applications/OpenOS.app/rootfs/etc/rc.cfg
+mineosdev/Applications/OpenOS.app/rootfs/etc/rc.d
+mineosdev/Applications/OpenOS.app/rootfs/etc/rc.d/example.lua
+mineosdev/Applications/OpenOS.app/rootfs/home
+mineosdev/Applications/OpenOS.app/rootfs/home/.shrc
+mineosdev/Applications/OpenOS.app/rootfs/init.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib
+mineosdev/Applications/OpenOS.app/rootfs/lib/bit32.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/buffer.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/colors.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/boot.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/cursor.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/devfs
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/devfs/01_hw.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/devfs/02_utils.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/devfs/adapters
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/devfs/adapters/computer.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/devfs/adapters/eeprom.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/devfs/adapters/filesystem.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/devfs/adapters/gpu.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/devfs/adapters/internet.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/devfs/adapters/modem.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/devfs/adapters/screen.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/device_labeling.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/full_buffer.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/full_cursor.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/full_event.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/full_filesystem.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/full_keyboard.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/full_ls.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/full_sh.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/full_shell.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/full_text.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/full_transforms.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/full_vt.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/install_basics.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/install_utils.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/core/lua_shell.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/devfs.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/event.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/filesystem.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/internet.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/io.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/keyboard.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/note.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/package.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/pipe.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/process.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/rc.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/serialization.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/sh.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/shell.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/sides.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/term.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/text.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/thread.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/tools
+mineosdev/Applications/OpenOS.app/rootfs/lib/tools/programLocations.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/tools/transfer.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/transforms.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/tty.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/uuid.lua
+mineosdev/Applications/OpenOS.app/rootfs/lib/vt100.lua
+mineosdev/Applications/OpenOS.app/rootfs/usr
+mineosdev/Applications/OpenOS.app/rootfs/usr/man
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/address
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/alias
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/cat
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/cd
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/clear
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/cp
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/date
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/df
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/dmesg
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/echo
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/edit
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/grep
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/head
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/hostname
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/install
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/label
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/less
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/ln
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/ls
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/lshw
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/lua
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/man
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/mkdir
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/more
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/mount
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/mv
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/pastebin
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/primary
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/pwd
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/rc
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/reboot
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/redstone
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/resolution
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/rm
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/rmdir
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/set
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/sh
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/shutdown
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/umount
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/unalias
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/unset
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/uptime
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/useradd
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/userdel
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/wget
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/which
+mineosdev/Applications/OpenOS.app/rootfs/usr/man/yes
+mineosdev/Applications/OpenOS.app/rootfs/usr/misc
+mineosdev/Applications/OpenOS.app/rootfs/usr/misc/greetings.txt
+mineosdev/Applications/Picture Edit.app
+mineosdev/Applications/Picture Edit.app/Extensions
+mineosdev/Applications/Picture Edit.app/Extensions/.pic
+mineosdev/Applications/Picture Edit.app/Extensions/.pic/Icon.pic
+mineosdev/Applications/Picture Edit.app/Icon.pic
+mineosdev/Applications/Picture Edit.app/Localizations
+mineosdev/Applications/Picture Edit.app/Localizations/English.lang
+mineosdev/Applications/Picture Edit.app/Localizations/Russian.lang
+mineosdev/Applications/Picture Edit.app/Main.lua
+mineosdev/Applications/Picture Edit.app/Tools
+mineosdev/Applications/Picture Edit.app/Tools/1.lua
+mineosdev/Applications/Picture Edit.app/Tools/2.lua
+mineosdev/Applications/Picture Edit.app/Tools/3.lua
+mineosdev/Applications/Picture Edit.app/Tools/4.lua
+mineosdev/Applications/Picture Edit.app/Tools/5.lua
+mineosdev/Applications/Picture Edit.app/Tools/6.lua
+mineosdev/Applications/Picture Edit.app/Tools/7.lua
+mineosdev/Applications/Picture Edit.app/Tools/8.lua
+mineosdev/Applications/Picture Edit.app/Tools/9.lua
+mineosdev/Applications/Sample.app
+mineosdev/Applications/Sample.app/Icon.pic
+mineosdev/Applications/Sample.app/Localizations
+mineosdev/Applications/Sample.app/Localizations/English.lang
+mineosdev/Applications/Sample.app/Localizations/Russian.lang
+mineosdev/Applications/Sample.app/Main.lua
+mineosdev/Applications/Settings.app
+mineosdev/Applications/Settings.app/Icon.pic
+mineosdev/Applications/Settings.app/Localizations
+mineosdev/Applications/Settings.app/Localizations/English.lang
+mineosdev/Applications/Settings.app/Localizations/Russian.lang
+mineosdev/Applications/Settings.app/Main.lua
+mineosdev/Applications/Settings.app/Modules
+mineosdev/Applications/Settings.app/Modules/0_Screen
+mineosdev/Applications/Settings.app/Modules/0_Screen/Icon.pic
+mineosdev/Applications/Settings.app/Modules/0_Screen/Main.lua
+mineosdev/Applications/Settings.app/Modules/1_Wallpaper
+mineosdev/Applications/Settings.app/Modules/1_Wallpaper/Icon.pic
+mineosdev/Applications/Settings.app/Modules/1_Wallpaper/Main.lua
+mineosdev/Applications/Settings.app/Modules/2_Icons
+mineosdev/Applications/Settings.app/Modules/2_Icons/Icon.pic
+mineosdev/Applications/Settings.app/Modules/2_Icons/Main.lua
+mineosdev/Applications/Settings.app/Modules/3_Tasks
+mineosdev/Applications/Settings.app/Modules/3_Tasks/Icon.pic
+mineosdev/Applications/Settings.app/Modules/3_Tasks/Main.lua
+mineosdev/Applications/Settings.app/Modules/4_Disks
+mineosdev/Applications/Settings.app/Modules/4_Disks/Icon.pic
+mineosdev/Applications/Settings.app/Modules/4_Disks/Main.lua
+mineosdev/Applications/Settings.app/Modules/40_Users
+mineosdev/Applications/Settings.app/Modules/40_Users/Icon.pic
+mineosdev/Applications/Settings.app/Modules/40_Users/Main.lua
+mineosdev/Applications/Settings.app/Modules/5_Network
+mineosdev/Applications/Settings.app/Modules/5_Network/Icon.pic
+mineosdev/Applications/Settings.app/Modules/5_Network/Main.lua
+mineosdev/Applications/Settings.app/Modules/6_Localizations
+mineosdev/Applications/Settings.app/Modules/6_Localizations/Icon.pic
+mineosdev/Applications/Settings.app/Modules/6_Localizations/Main.lua
+mineosdev/Applications/Settings.app/Modules/7_Time
+mineosdev/Applications/Settings.app/Modules/7_Time/Icon.pic
+mineosdev/Applications/Settings.app/Modules/7_Time/Main.lua
+mineosdev/Applications/Settings.app/Modules/8_System
+mineosdev/Applications/Settings.app/Modules/8_System/Icon.pic
+mineosdev/Applications/Settings.app/Modules/8_System/Main.lua
+mineosdev/bin
+mineosdev/bin/cat.lua
+mineosdev/bin/cd.lua
+mineosdev/bin/clear.lua
+mineosdev/bin/cp.lua
+mineosdev/bin/dmesg.lua
+mineosdev/bin/echo.lua
+mineosdev/bin/exit.lua
+mineosdev/bin/free.lua
+mineosdev/bin/freeze.lua
+mineosdev/bin/kill.lua
+mineosdev/bin/led.lua
+mineosdev/bin/less.lua
+mineosdev/bin/login.lua
+mineosdev/bin/ls.lua
+mineosdev/bin/lsblk.lua
+mineosdev/bin/lshw.lua
+mineosdev/bin/mkdir.lua
+mineosdev/bin/mount.lua
+mineosdev/bin/mv.lua
+mineosdev/bin/ps.lua
+mineosdev/bin/pwd.lua
+mineosdev/bin/rm.lua
+mineosdev/bin/sh.lua
+mineosdev/bin/umount.lua
+mineosdev/bin/uptime.lua
+mineosdev/bin/usermgr.lua
+mineosdev/bin/wget.lua
+mineosdev/boot
+mineosdev/boot/kernel.lua
+mineosdev/boot/log
+mineosdev/boot/log.old
+mineosdev/Core
+mineosdev/Core/bin
+mineosdev/Core/bin/cat.lua
+mineosdev/Core/bin/cd.lua
+mineosdev/Core/bin/clear.lua
+mineosdev/Core/bin/cp.lua
+mineosdev/Core/bin/dmesg.lua
+mineosdev/Core/bin/echo.lua
+mineosdev/Core/bin/exit.lua
+mineosdev/Core/bin/free.lua
+mineosdev/Core/bin/freeze.lua
+mineosdev/Core/bin/kill.lua
+mineosdev/Core/bin/led.lua
+mineosdev/Core/bin/less.lua
+mineosdev/Core/bin/login.lua
+mineosdev/Core/bin/ls.lua
+mineosdev/Core/bin/lsblk.lua
+mineosdev/Core/bin/lshw.lua
+mineosdev/Core/bin/mkdir.lua
+mineosdev/Core/bin/mount.lua
+mineosdev/Core/bin/mv.lua
+mineosdev/Core/bin/ps.lua
+mineosdev/Core/bin/pwd.lua
+mineosdev/Core/bin/rm.lua
+mineosdev/Core/bin/sh.lua
+mineosdev/Core/bin/umount.lua
+mineosdev/Core/bin/uptime.lua
+mineosdev/Core/bin/usermgr.lua
+mineosdev/Core/bin/wget.lua
+mineosdev/Core/boot
+mineosdev/Core/boot/kernel.lua
+mineosdev/Core/boot/log
+mineosdev/Core/boot/log.old
+mineosdev/Core/dev
+mineosdev/Core/etc
+mineosdev/Core/etc/inittab
+mineosdev/Core/etc/openpm
+mineosdev/Core/etc/openpm/repos.cfg
+mineosdev/Core/etc/passwd
+mineosdev/Core/lib
+mineosdev/Core/lib/archive.lua
+mineosdev/Core/lib/bit32.lua
+mineosdev/Core/lib/buffer.lua
+mineosdev/Core/lib/config.lua
+mineosdev/Core/lib/modules
+mineosdev/Core/lib/modules/components.lua
+mineosdev/Core/lib/modules/input.lua
+mineosdev/Core/lib/modules/io.lua
+mineosdev/Core/lib/modules/keyboard.lua
+mineosdev/Core/lib/modules/package.lua
+mineosdev/Core/lib/modules/users.lua
+mineosdev/Core/lib/openpkg.lua
+mineosdev/Core/lib/services
+mineosdev/Core/lib/services/idled.lua
+mineosdev/Core/lib/sha256.lua
+mineosdev/Core/lib/vfs.lua
+mineosdev/Core/minecore.lua
+mineosdev/Core/mnt
+mineosdev/Core/mnt/mineOS Shell
+mineosdev/Core/mnt/OpenOS (Operating System)
+mineosdev/Core/root
+mineosdev/Core/root/openvm
+mineosdev/Core/root/openvm/OMakefile
+mineosdev/Core/root/openvm/openvm.acv
+mineosdev/Core/root/openvm/pkg
+mineosdev/Core/root/openvm/pkg/package.cfg
+mineosdev/Core/root/openvm/src
+mineosdev/Core/root/openvm/src/lib
+mineosdev/Core/root/openvm/src/lib/sandbox.lua
+mineosdev/Core/root/openvm/src/openvm.lua
+mineosdev/Core/root/openvm/src/openvm.lua.1
+mineosdev/Core/sbin
+mineosdev/Core/sbin/init.lua
+mineosdev/Core/sbin/reboot.lua
+mineosdev/Core/sbin/shutdown.lua
+mineosdev/Core/tmp
+mineosdev/Core/usr
+mineosdev/Core/usr/bin
+mineosdev/Core/usr/bin/acv.lua
+mineosdev/Core/usr/bin/eeprom.lua
+mineosdev/Core/usr/bin/fsutil.lua
+mineosdev/Core/usr/bin/label.lua
+mineosdev/Core/usr/bin/lua.lua
+mineosdev/Core/usr/bin/luac.lua
+mineosdev/Core/usr/bin/makepkg.lua
+mineosdev/Core/usr/bin/man.lua
+mineosdev/Core/usr/bin/motd.lua
+mineosdev/Core/usr/bin/occ.lua
+mineosdev/Core/usr/bin/ocmake.lua
+mineosdev/Core/usr/bin/openpm.lua
+mineosdev/Core/usr/bin/vi.lua
+mineosdev/Core/usr/include
+mineosdev/Core/usr/include/stdio.h
+mineosdev/Core/usr/lib
+mineosdev/Core/usr/lib/compat
+mineosdev/Core/usr/lib/compat/keyboard.lua
+mineosdev/Core/usr/lib/compat/term.lua
+mineosdev/Core/usr/lib/compat/text.lua
+mineosdev/Core/usr/lib/netutils.lua
+mineosdev/Core/usr/lib/openupt.lua
+mineosdev/Core/usr/lib/text.lua
+mineosdev/Core/usr/lib/textutils.lua
+mineosdev/Core/usr/man
+mineosdev/Core/usr/man/devfs
+mineosdev/Core/usr/man/event
+mineosdev/Core/usr/man/init
+mineosdev/Core/usr/man/okcstdlib
+mineosdev/Core/usr/man/os
+mineosdev/Core/usr/man/package
+mineosdev/Core/usr/man/shell
+mineosdev/Core/usr/man/threading
+mineosdev/Core/usr/man/vcomponent
+mineosdev/Core/usr/share
+mineosdev/Core/usr/share/iexplode
+mineosdev/Core/usr/share/iexplode/index.ohml
+mineosdev/Core/usr/share/openvm.cfg
+mineosdev/dev
+mineosdev/etc
+mineosdev/etc/inittab
+mineosdev/etc/openpm
+mineosdev/etc/openpm/repos.cfg
+mineosdev/etc/passwd
+mineosdev/Extensions
+mineosdev/Icons
+mineosdev/Icons/Application.pic
+mineosdev/Icons/Archive.pic
+mineosdev/Icons/FileNotExists.pic
+mineosdev/Icons/Floppy.pic
+mineosdev/Icons/Folder.pic
+mineosdev/Icons/HDD.pic
+mineosdev/Icons/Script.pic
+mineosdev/Icons/Trash.pic
+mineosdev/Icons/User.pic
+mineosdev/init.lua
+mineosdev/lib
+mineosdev/lib/archive.lua
+mineosdev/lib/bit32.lua
+mineosdev/lib/buffer.lua
+mineosdev/lib/config.lua
+mineosdev/lib/modules
+mineosdev/lib/modules/components.lua
+mineosdev/lib/modules/input.lua
+mineosdev/lib/modules/io.lua
+mineosdev/lib/modules/keyboard.lua
+mineosdev/lib/modules/package.lua
+mineosdev/lib/modules/users.lua
+mineosdev/lib/openpkg.lua
+mineosdev/lib/services
+mineosdev/lib/services/idled.lua
+mineosdev/lib/sha256.lua
+mineosdev/lib/vfs.lua
+mineosdev/Libraries
+mineosdev/Libraries/BigLetters.lua
+mineosdev/Libraries/Bit32.lua
+mineosdev/Libraries/Color.lua
+mineosdev/Libraries/Component.lua
+mineosdev/Libraries/Compressor.lua
+mineosdev/Libraries/Event.lua
+mineosdev/Libraries/Filesystem.lua
+mineosdev/Libraries/GUI.lua
+mineosdev/Libraries/Image.lua
+mineosdev/Libraries/Internet.lua
+mineosdev/Libraries/Keyboard.lua
+mineosdev/Libraries/Network.lua
+mineosdev/Libraries/Number.lua
+mineosdev/Libraries/Paths.lua
+mineosdev/Libraries/Screen.lua
+mineosdev/Libraries/SHA-256.lua
+mineosdev/Libraries/System.lua
+mineosdev/Libraries/Text.lua
+mineosdev/List.txt
+mineosdev/Localizations
+mineosdev/Localizations/English.lang
+mineosdev/Localizations/Russian.lang
+mineosdev/minecore.lua
+mineosdev/MineOS
+mineosdev/MineOS/Icons
+mineosdev/MineOS/Icons/Application.pic
+mineosdev/MineOS/Icons/Archive.pic
+mineosdev/MineOS/Icons/FileNotExists.pic
+mineosdev/MineOS/Icons/Floppy.pic
+mineosdev/MineOS/Icons/Folder.pic
+mineosdev/MineOS/Icons/HDD.pic
+mineosdev/MineOS/Icons/Script.pic
+mineosdev/MineOS/Icons/Trash.pic
+mineosdev/MineOS/Icons/User.pic
+mineosdev/mnt
+mineosdev/mnt/mineOS Shell
+mineosdev/mnt/OpenOS (Operating System)
+mineosdev/Mounts
+mineosdev/Pictures
+mineosdev/root
+mineosdev/root/openvm
+mineosdev/root/openvm/OMakefile
+mineosdev/root/openvm/openvm.acv
+mineosdev/root/openvm/pkg
+mineosdev/root/openvm/pkg/package.cfg
+mineosdev/root/openvm/src
+mineosdev/root/openvm/src/lib
+mineosdev/root/openvm/src/lib/sandbox.lua
+mineosdev/root/openvm/src/openvm.lua
+mineosdev/root/openvm/src/openvm.lua.1
+mineosdev/sbin
+mineosdev/sbin/gui.lua
+mineosdev/sbin/init.lua
+mineosdev/sbin/reboot.lua
+mineosdev/sbin/shutdown.lua
+mineosdev/syscore
+mineosdev/syscore/bin
+mineosdev/syscore/bin/cat.lua
+mineosdev/syscore/bin/cd.lua
+mineosdev/syscore/bin/clear.lua
+mineosdev/syscore/bin/cp.lua
+mineosdev/syscore/bin/dmesg.lua
+mineosdev/syscore/bin/echo.lua
+mineosdev/syscore/bin/exit.lua
+mineosdev/syscore/bin/free.lua
+mineosdev/syscore/bin/freeze.lua
+mineosdev/syscore/bin/kill.lua
+mineosdev/syscore/bin/led.lua
+mineosdev/syscore/bin/less.lua
+mineosdev/syscore/bin/login.lua
+mineosdev/syscore/bin/ls.lua
+mineosdev/syscore/bin/lsblk.lua
+mineosdev/syscore/bin/lshw.lua
+mineosdev/syscore/bin/mkdir.lua
+mineosdev/syscore/bin/mount.lua
+mineosdev/syscore/bin/mv.lua
+mineosdev/syscore/bin/ps.lua
+mineosdev/syscore/bin/pwd.lua
+mineosdev/syscore/bin/rm.lua
+mineosdev/syscore/bin/sh.lua
+mineosdev/syscore/bin/umount.lua
+mineosdev/syscore/bin/uptime.lua
+mineosdev/syscore/bin/usermgr.lua
+mineosdev/syscore/bin/wget.lua
+mineosdev/syscore/boot
+mineosdev/syscore/boot/kernel.lua
+mineosdev/syscore/boot/log
+mineosdev/syscore/boot/log.old
+mineosdev/syscore/dev
+mineosdev/syscore/etc
+mineosdev/syscore/etc/inittab
+mineosdev/syscore/etc/openpm
+mineosdev/syscore/etc/openpm/repos.cfg
+mineosdev/syscore/etc/passwd
+mineosdev/syscore/init.lua
+mineosdev/syscore/lib
+mineosdev/syscore/lib/archive.lua
+mineosdev/syscore/lib/bit32.lua
+mineosdev/syscore/lib/buffer.lua
+mineosdev/syscore/lib/config.lua
+mineosdev/syscore/lib/modules
+mineosdev/syscore/lib/modules/components.lua
+mineosdev/syscore/lib/modules/input.lua
+mineosdev/syscore/lib/modules/io.lua
+mineosdev/syscore/lib/modules/keyboard.lua
+mineosdev/syscore/lib/modules/package.lua
+mineosdev/syscore/lib/modules/users.lua
+mineosdev/syscore/lib/openpkg.lua
+mineosdev/syscore/lib/services
+mineosdev/syscore/lib/services/idled.lua
+mineosdev/syscore/lib/sha256.lua
+mineosdev/syscore/lib/vfs.lua
+mineosdev/syscore/mnt
+mineosdev/syscore/mnt/mineOS Shell
+mineosdev/syscore/mnt/OpenOS (Operating System)
+mineosdev/syscore/root
+mineosdev/syscore/root/openvm
+mineosdev/syscore/root/openvm/OMakefile
+mineosdev/syscore/root/openvm/openvm.acv
+mineosdev/syscore/root/openvm/pkg
+mineosdev/syscore/root/openvm/pkg/package.cfg
+mineosdev/syscore/root/openvm/src
+mineosdev/syscore/root/openvm/src/lib
+mineosdev/syscore/root/openvm/src/lib/sandbox.lua
+mineosdev/syscore/root/openvm/src/openvm.lua
+mineosdev/syscore/root/openvm/src/openvm.lua.1
+mineosdev/syscore/sbin
+mineosdev/syscore/sbin/init.lua
+mineosdev/syscore/sbin/reboot.lua
+mineosdev/syscore/sbin/shutdown.lua
+mineosdev/syscore/tmp
+mineosdev/syscore/usr
+mineosdev/syscore/usr/bin
+mineosdev/syscore/usr/bin/acv.lua
+mineosdev/syscore/usr/bin/eeprom.lua
+mineosdev/syscore/usr/bin/fsutil.lua
+mineosdev/syscore/usr/bin/label.lua
+mineosdev/syscore/usr/bin/lua.lua
+mineosdev/syscore/usr/bin/luac.lua
+mineosdev/syscore/usr/bin/makepkg.lua
+mineosdev/syscore/usr/bin/man.lua
+mineosdev/syscore/usr/bin/motd.lua
+mineosdev/syscore/usr/bin/occ.lua
+mineosdev/syscore/usr/bin/ocmake.lua
+mineosdev/syscore/usr/bin/openpm.lua
+mineosdev/syscore/usr/bin/vi.lua
+mineosdev/syscore/usr/include
+mineosdev/syscore/usr/include/stdio.h
+mineosdev/syscore/usr/lib
+mineosdev/syscore/usr/lib/compat
+mineosdev/syscore/usr/lib/compat/keyboard.lua
+mineosdev/syscore/usr/lib/compat/term.lua
+mineosdev/syscore/usr/lib/compat/text.lua
+mineosdev/syscore/usr/lib/netutils.lua
+mineosdev/syscore/usr/lib/openupt.lua
+mineosdev/syscore/usr/lib/text.lua
+mineosdev/syscore/usr/lib/textutils.lua
+mineosdev/syscore/usr/man
+mineosdev/syscore/usr/man/devfs
+mineosdev/syscore/usr/man/event
+mineosdev/syscore/usr/man/init
+mineosdev/syscore/usr/man/okcstdlib
+mineosdev/syscore/usr/man/os
+mineosdev/syscore/usr/man/package
+mineosdev/syscore/usr/man/shell
+mineosdev/syscore/usr/man/threading
+mineosdev/syscore/usr/man/vcomponent
+mineosdev/syscore/usr/share
+mineosdev/syscore/usr/share/iexplode
+mineosdev/syscore/usr/share/iexplode/index.ohml
+mineosdev/syscore/usr/share/openvm.cfg
+mineosdev/Temporary
+mineosdev/tmp
+mineosdev/Users
+mineosdev/Users/root
+mineosdev/Users/root/Application data
+mineosdev/Users/root/Application data/App Market
+mineosdev/Users/root/Application data/App Market/Cache
+mineosdev/Users/root/Application data/App Market/Cache/1077@1.01.pic
+mineosdev/Users/root/Application data/App Market/Cache/1197@1.05.pic
+mineosdev/Users/root/Application data/App Market/Cache/1431@1.02.pic
+mineosdev/Users/root/Application data/App Market/Cache/169@1.6.pic
+mineosdev/Users/root/Application data/App Market/Cache/1898@1.12.pic
+mineosdev/Users/root/Application data/App Market/Cache/1908@1.01.pic
+mineosdev/Users/root/Application data/App Market/Cache/1922@1.01.pic
+mineosdev/Users/root/Application data/App Market/Cache/282@1.09.pic
+mineosdev/Users/root/Application data/App Market/Cache/909@1.45.pic
+mineosdev/Users/root/Application data/App Market/Cache/986@1.22.pic
+mineosdev/Users/root/Application data/Finder
+mineosdev/Users/root/Application data/Finder/Config.cfg
+mineosdev/Users/root/Application data/GUI
+mineosdev/Users/root/Application data/GUI/Palette.cfg
+mineosdev/Users/root/Applications
+mineosdev/Users/root/Desktop
+mineosdev/Users/root/Desktop/.icons
+mineosdev/Users/root/Desktop/Lua.lnk
+mineosdev/Users/root/Desktop/mineBASH.lnk
+mineosdev/Users/root/Desktop/OpenOS.lnk
+mineosdev/Users/root/Libraries
+mineosdev/Users/root/Pictures
+mineosdev/Users/root/Screensavers
+mineosdev/Users/root/Settings.cfg
+mineosdev/Users/root/Trash
+mineosdev/Users/root/Trash/3D Print.lnk
+mineosdev/Users/root/Versions.cfg
+mineosdev/usr
+mineosdev/usr/bin
+mineosdev/usr/bin/acv.lua
+mineosdev/usr/bin/eeprom.lua
+mineosdev/usr/bin/fsutil.lua
+mineosdev/usr/bin/label.lua
+mineosdev/usr/bin/lua.lua
+mineosdev/usr/bin/luac.lua
+mineosdev/usr/bin/makepkg.lua
+mineosdev/usr/bin/man.lua
+mineosdev/usr/bin/motd.lua
+mineosdev/usr/bin/occ.lua
+mineosdev/usr/bin/ocmake.lua
+mineosdev/usr/bin/openpm.lua
+mineosdev/usr/bin/vi.lua
+mineosdev/usr/include
+mineosdev/usr/include/stdio.h
+mineosdev/usr/lib
+mineosdev/usr/lib/compat
+mineosdev/usr/lib/compat/keyboard.lua
+mineosdev/usr/lib/compat/term.lua
+mineosdev/usr/lib/compat/text.lua
+mineosdev/usr/lib/netutils.lua
+mineosdev/usr/lib/openupt.lua
+mineosdev/usr/lib/text.lua
+mineosdev/usr/lib/textutils.lua
+mineosdev/usr/man
+mineosdev/usr/man/devfs
+mineosdev/usr/man/event
+mineosdev/usr/man/init
+mineosdev/usr/man/okcstdlib
+mineosdev/usr/man/os
+mineosdev/usr/man/package
+mineosdev/usr/man/shell
+mineosdev/usr/man/threading
+mineosdev/usr/man/vcomponent
+mineosdev/usr/share
+mineosdev/usr/share/iexplode
+mineosdev/usr/share/iexplode/index.ohml
+mineosdev/usr/share/openvm.cfg
+mineosdev/Versions.cfg

@@ -1,0 +1,28 @@
+THREADING: Open Kernel 2 Manual
+
+DESCRIPTION
+  Open Kernel 2 supports multitasking through collaborative multithreading, controlled by functions in the os library.
+
+  Note that if your computer has less than 256 bytes of free RAM, or 128 when spawning a process, the system will kernel panic.
+
+FUNCTIONS
+  The following functions are available to start, stop, and get information on tasks.
+  
+  os.spawn(task: function, id: string): number
+    Spawns a new task with the name 'id' and creates its coroutine from the provided function. Returns the PID of the spawned task.
+
+  os.tasks(): table
+    Returns a table of PIDs from all currently running processes.
+
+  os.info([pid: number]): table processinfo
+    Returns a table containing the specified process' name, PID, and parent PID. If no PID is specified, will return information
+    about the current process.
+
+  os.pid(): number
+    Returns the PID of the currently executing process.
+
+  os.kill(pid: number)
+    Kills the specified process.
+
+  os.exit()
+    Kills the current process. Alias for os.kill(os.pid()).

@@ -1,0 +1,18 @@
+INIT:  Open Kernel 2 Manual
+
+DESCRIPTION
+  The init script takes care of system initialization once multitasking has been initialized by the kernel. A custom init script may
+  be specified with the 'init' kernel flag.
+
+  The default Open Kernel 2 init script (OpenRC) is located at /sbin/init.lua. The kernel passes it the maximum system runlevel,
+  specified through kernel flag 'runlevel', which if nil is set to 3. (Only runlevels 1 and 2 are used.)
+
+  When loaded, OpenRC loads its configuration from /etc/inittab. If the configuration fails to load, OpenRC will error and the
+  system will panic. This configuration specifies startup scripts and services, as well as the order to start them in.
+
+CONFIGURATION
+  OpenRC configuration is stored at /etc/inittab in a serialized Lua table. Startup scripts are specified in the sub-section
+  'startup', and background services in 'daemons'.
+  
+  Each configuration entry is a table with at least two fields, 'id' and 'file'. 'id' specifies the name of the task, and 'file' is
+  the absolute path to the script.

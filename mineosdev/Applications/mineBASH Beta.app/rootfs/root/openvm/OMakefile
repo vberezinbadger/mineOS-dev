@@ -1,0 +1,37 @@
+{
+  ["lib/sandbox"] = {
+    ["exec"] = {
+      "luac src/lib/sandbox.lua"
+    }
+  },
+  ["openvm"] = {
+    ["deps"] = {
+      "lib/sandbox",
+    },
+    ["exec"] = {
+      "luac src/openvm.lua --out=openvm.lua"
+    }
+  },
+  ["pkg"] = {
+    ["exec"] = {
+      "mkdir pkg/bin",
+      "mv src/openvm.lua pkg/bin/openvm.lua",
+      "cd pkg",
+      "makepkg --all --verbose openvm openvm bin/openvm.lua",
+      "cd .."
+    }
+  },
+  ["install"] = {
+    ["deps"] = {
+      "pkg"
+    },
+    ["exec"] = {
+      "openpm install-local pkg/openvm.acv"
+    }
+  },
+  ["all"] = {
+    ["deps"] = {
+      "openvm"
+    }
+  }
+}

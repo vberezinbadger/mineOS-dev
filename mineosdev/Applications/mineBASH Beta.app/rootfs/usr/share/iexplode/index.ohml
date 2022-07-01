@@ -1,0 +1,33 @@
+<ohml version=1.02>
+  <text>
+    Internet Exploder |
+    Home |
+    <a href="info.ohml">Info</a> |
+    <a href="about.ohml">About</a> |
+    <a href="openkernel.ohml">Open Kernel</a>
+  </text>
+  <br></br>
+  <text>
+    Internet Exploder is a mostly-OHML-compliant Web browser, supporting all the latest features from OHML 1.02. It uses the latest features from Open Kernel 2 to provide you with a safe, secure, and speedy browsing experience, and is definitely not based on Trident.
+    <br></br>
+    Internet Exploder can display pages from compatible Internet sites, [WIP] OHTP servers, and locally.
+    <br></br>
+    <h3>System requirements<h3>
+      - Tier 1 Graphics Card<br></br>
+      - Tier 1 CPU<br></br>
+      - Tier 1 screen<br></br>
+      - at least 256K [TODO: CHECK THIS] of RAM<br></br>
+      - Internet Card to display sites from the Internet<br></br>
+      - Network card to display sites from OHTP servers<br></br>
+  </text>
+  <br></br>
+  <canvas id="canvas" width=32 height=8></canvas>
+  <script lang="application/lua">
+    -- Demo Lua scripts in action
+    local canvas = document.getElementById("canvas")
+    canvas.setForeground(0x000000)
+    canvas.setBackground(0xFFFFFF)
+    canvas.drawText(1, 1, "You can also run Lua scripts embedded in web pages.")
+    canvas.drawText(1, 3, "This text is drawn by a Lua script embedded in the web page you are viewing.")
+  </script>
+</ohml>

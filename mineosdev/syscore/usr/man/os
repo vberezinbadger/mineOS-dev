@@ -1,0 +1,9 @@
+OS:  Open Kernel 2 Manual
+
+DESCRIPTION
+  The os table contains Open Kernel's multitasking engine (see `man threading`) as well as some of the standard os API.
+
+FUNCTIONS
+  
+  os.sleep(seconds: number)
+    Sleeps for the specified number of seconds. Note that this is a blocking function and will consume events.

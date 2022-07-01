@@ -1,0 +1,15 @@
+DEVFS:  Open Kernel 2 Manual
+
+DESCRIPTION
+  Open Kernel 2 ships with a primitive device FS. It does not support directories, and as of March 8 2020 is mostly only good for
+  retrieving addresses of components, useful in mounting filesystems. The devfs is automatically mounted at boot, and helper
+  functions can be accessed through the devfs API.
+
+FUNCTIONS
+  The following helper functions are present.
+  
+  devfs.getAddress(devicePath: string): string
+    Returns the component address of the specified device.
+
+  devfs.poke(device: string, method: string[, ...])
+    Similar to component.invoke, except operating on a virtual device.
